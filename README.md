@@ -68,7 +68,7 @@ O relatório completo do projeto, incluindo objetivos, estrutura de dados utiliz
 
 ---
 
-##👨‍💻 Autores
+## 👨‍💻 Autores
 
 - Filipe Gabriel
 - Marcus Vinícius
